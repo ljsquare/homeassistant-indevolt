@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Core Integration:** This integration has been partially embedded in the Home Assistant core in version 2026.3. It is only recommended to use this custom component if real-time control is required (this feature will be added in an upcoming Home Assistant release).
+
 # Indevolt integration for Home Assistant
 
 The Indevolt integration enables direct local communication between Home Assistant and your [Indevolt](https://www.indevolt.com/) energy storage devices.
